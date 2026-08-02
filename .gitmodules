@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "nomine"]
+	path = nomine
+	url = https://github.com/lobsterbush/nomine
+[submodule "plotrr"]
+	path = plotrr
+	url = https://github.com/lobsterbush/plotrr
